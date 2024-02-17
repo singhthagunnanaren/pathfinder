@@ -4,7 +4,7 @@ A [Starknet](https://www.starknet.io) full node giving you a safe view into Star
 
 Pathfinder is currently in alpha so expect some rough edges but it is already usable today!
 
-## Features
+## Features:
 
 - access the full Starknet state history
   - includes contract code and storage, and transactions
